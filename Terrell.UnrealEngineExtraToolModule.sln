@@ -5,7 +5,10 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrell.UnrealEngineExtraToolModule", "Terrell.UnrealEngineExtraToolModule.csproj", "{8ECEF5EF-5585-41BB-B583-CA2E7AD075A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ue4qTOOL", "C:\Users\KF4\source\repos\ue4qTOOL\ue4qTOOL.csproj", "{A3A25923-DD2A-4ED2-BDC1-2FA44C17E987}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTWindowForUE4", "E:\Winform Project\QTWindowForUE4\QTWindowForUE4.csproj", "{59D2AD80-6E83-43E6-A58B-D60A25C7C324}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8ECEF5EF-5585-41BB-B583-CA2E7AD075A4} = {8ECEF5EF-5585-41BB-B583-CA2E7AD075A4}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +20,10 @@ Global
 		{8ECEF5EF-5585-41BB-B583-CA2E7AD075A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ECEF5EF-5585-41BB-B583-CA2E7AD075A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ECEF5EF-5585-41BB-B583-CA2E7AD075A4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3A25923-DD2A-4ED2-BDC1-2FA44C17E987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3A25923-DD2A-4ED2-BDC1-2FA44C17E987}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3A25923-DD2A-4ED2-BDC1-2FA44C17E987}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3A25923-DD2A-4ED2-BDC1-2FA44C17E987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D2AD80-6E83-43E6-A58B-D60A25C7C324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D2AD80-6E83-43E6-A58B-D60A25C7C324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D2AD80-6E83-43E6-A58B-D60A25C7C324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D2AD80-6E83-43E6-A58B-D60A25C7C324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

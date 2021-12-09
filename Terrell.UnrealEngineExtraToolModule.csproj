@@ -42,6 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConfigOperator.cs" />
+    <Compile Include="PluginInfo.cs" />
+    <Compile Include="PluginOperator2.cs" />
+    <Compile Include="UPlugin.cs" />
     <Compile Include="PluginOperator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
